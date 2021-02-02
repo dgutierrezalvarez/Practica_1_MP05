@@ -4,7 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Copia Hola Mundo");
-        System.out.println("prueba2");
+        System.out.println("prueba");
+
 
 
 
